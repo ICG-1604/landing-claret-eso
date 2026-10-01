@@ -122,16 +122,14 @@ export const equipo = {
   eyebrow: 'El equipo',
   title: 'Quién da la clase',
   lead:
-    'Un antiguo alumno del Colegio Claret y de MUN en las aulas, coordinado por el fundador de la academia.',
+    'Javier Sanz, antiguo alumno del Colegio Claret y de MUN en las aulas, coordinado por el fundador de la academia.',
   personas: [
     {
-      // Pendiente: nombre, bio y foto del profesor (antiguo alumno de Claret y
-      // de la academia). Con pendiente: true la ficha no se muestra.
-      nombre: '[Nombre del profesor]',
+      nombre: 'Javier Sanz',
       rol: 'Profesor de 1.º y 2.º de ESO en Claret',
-      bio: '[Bio]',
-      foto: null,
-      pendiente: true,
+      bio: 'Alumni del Colegio Claret y miembro de la primera promoción de MUN en las aulas en el centro. Hoy es Secretario General del Modelo de Naciones Unidas de la Universidad Politécnica de Madrid.',
+      foto: 'javier-sanz.jpg',
+      pendiente: false,
     },
     {
       nombre: 'Ignacio Corroto',

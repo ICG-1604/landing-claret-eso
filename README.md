@@ -26,7 +26,7 @@ npm run og       # regenera public/og.jpg
 
 ## Pendientes antes de publicar
 
-1. **Profesor:** nombre, bio y foto (4:5 en `src/assets/equipo/`), y `pendiente: false`.
+1. **Profesor:** resuelto, Javier Sanz (01/10/2026).
 2. **Formulario:** es el mismo de Claret. Debe permitir elegir lunes o viernes y no
    hablar de «dos semanas de prueba».
 3. **URL:** `site` apunta a `https://landing-claret-eso.vercel.app` (supuesto: el nombre
